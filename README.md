@@ -1,3 +1,4 @@
+[![Travis CI   ](http://img.shields.io/travis/lolet/rc6/master.svg)     ](https://travis-ci.org/lolet/rc6)
 # Rc6
 
 TODO: Write a gem description
